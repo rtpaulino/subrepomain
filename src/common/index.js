@@ -23,6 +23,8 @@ var lc = function (s) {
     return ('' + s).toLowerCase();
 };
 
+// algum comentário diferente
+
 var spacesToUnderscore = function (s) {
     if (isEmpty(s)) {
         return s;
