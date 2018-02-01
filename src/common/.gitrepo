@@ -6,6 +6,6 @@
 [subrepo]
 	remote = https://github.com/rtpaulino/subrepocommon.git
 	branch = master
-	commit = 3e9049b97bcc55dc3ae655ffd08469382af74e38
-	parent = e73a8c66f54c86a93119242f90a0ebc37dbf40e8
+	commit = c37c2a5e66c5667dbc8ce79b7c82769115b4a6d6
+	parent = 3ebe0193853c66e902da5a058fe26befa3d3384d
 	cmdver = 0.3.1
