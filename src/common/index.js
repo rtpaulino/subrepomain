@@ -9,6 +9,13 @@ var stringClean = function (s) {
     return ('' + s).toLowerCase().replace(/\s+/g, ' ');
 };
 
+var lc = function (s) {
+    if (isEmpty(s)) {
+        return s;
+    }
+    return ('' + s).toLowerCase();
+};
+
 var spacesToUnderscore = function (s) {
     if (isEmpty(s)) {
         return s;
